@@ -1,0 +1,9 @@
+.hidden{
+    display: none
+}
+
+.popup{
+    border-color: aquamarine;
+    border-style: inset;
+    border-width: 2mm;
+}
